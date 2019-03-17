@@ -1,5 +1,9 @@
 # 内容介绍
 
+## PyTorch实现简单分类
+
+使用Pytorch实现简单的全连接网络。
+
 ## Pytorch_CNN_CAT_DOG
 
 使用Pytorch实现简单的CNN网络。
