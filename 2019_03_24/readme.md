@@ -5,6 +5,9 @@
 - 划分训练集和验证集，每epoch计算一次
 - 每epoch保存一次模型
 
+## 论文：Decision-based boundary attack
+简略翻译见md。
+
 
 ## 可视化
 
