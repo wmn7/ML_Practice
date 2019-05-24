@@ -19,3 +19,9 @@
 ### layer 40, filter 265
 
 ![](https://github.com/wmn7/ML_Practice/blob/master/2019_05_27/pic/layer40_filter265.jpg)
+
+## Deep Dream的实现
+
+![](https://github.com/wmn7/ML_Practice/blob/master/2019_05_27/pic/deepdream_face.jpg)
+
+![](https://github.com/wmn7/ML_Practice/blob/master/2019_05_27/pic/deepdream_face1111.jpg)
