@@ -36,3 +36,8 @@
 ## 2019_06_03
 
 - Image Style Transform(图片的风格迁移)
+- CNN_MNIST可视化
+
+## 2019_06_10
+
+- Fizz Buzz in Pytorch
