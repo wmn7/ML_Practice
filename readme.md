@@ -41,3 +41,5 @@
 ## 2019_06_10
 
 - Fizz Buzz in Pytorch
+- CLASSIFYING NAMES WITH A CHARACTER-LEVEL RNN
+- 时间序列分析(使用RNN完成时间序列预测)
