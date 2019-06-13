@@ -1,0 +1,2 @@
+1. punctuations need to be removed
+2. Negative Sampling can be implemented

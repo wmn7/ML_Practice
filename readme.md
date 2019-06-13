@@ -43,3 +43,11 @@
 - Fizz Buzz in Pytorch
 - CLASSIFYING NAMES WITH A CHARACTER-LEVEL RNN
 - 时间序列分析(使用RNN完成时间序列预测)
+
+## 2019_06_17
+
+- Seq2Seq - translation(一个简单的Seq2Seq的模型，用来实现英文与法文的翻译。)
+
+## 2019_06_24
+
+- Word Embedding(简单实现Skip-gram算法)
