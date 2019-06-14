@@ -50,4 +50,5 @@
 
 ## 2019_06_24
 
+- Emotion RNN(使用RNN完成简单的情感分类)
 - Word Embedding(简单实现Skip-gram算法)
