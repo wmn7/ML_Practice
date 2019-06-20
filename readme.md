@@ -52,3 +52,7 @@
 
 - Emotion RNN(使用RNN完成简单的情感分类)
 - Word Embedding(简单实现Skip-gram算法)
+
+## 2019_07_01
+
+- Attention的简单介绍
