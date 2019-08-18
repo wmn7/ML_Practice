@@ -75,3 +75,4 @@
 ## 2019_08_12
 
 - Factor Analysis(因子分析)
+- Principal component analysis, PCA(主成分分析)
