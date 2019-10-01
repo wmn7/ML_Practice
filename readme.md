@@ -2,7 +2,8 @@
 
 ## Tools
 
-- 这里放着一些好玩的python脚本
+- Python生成词云
+- Python生成字符画
 
 ## 2019_03_17
 
