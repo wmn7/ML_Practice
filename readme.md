@@ -67,6 +67,7 @@
 
 - Saliency Maps的简单实现
 - LIME与Pytorch的结合使用
+- SHAP与Pytorch的结合使用
 
 ## 2019_07_15
 
