@@ -4,6 +4,10 @@
 
 对于Pytorch中dim的理解, 特别是`torch.sum(x, dim=1)`时, 这里的dim=1与x.shape不对应情况的理解.
 
+## PyTorch中交叉熵的理解.
+
+介绍一下在PyTorch中CrossEntropy的背后的计算公式. 给出详细的推导.
+
 ## PyTorch实现简单分类
 
 使用Pytorch实现简单的全连接网络。

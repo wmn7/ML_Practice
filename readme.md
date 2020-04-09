@@ -17,6 +17,7 @@
 - PyTorch实现简单分类
 - PyTorch实现CNN, Dogs vs. Cats
 - Pytorch维度的理解
+- PyTorch对交叉熵的理解(CrossEntropy)
 
 ## 2019_03_24
 
