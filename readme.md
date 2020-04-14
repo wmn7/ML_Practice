@@ -117,3 +117,9 @@
 
 - Npy文件生成 (如何将图片生成对应的npy文件和label的npy文件)
 - Npy文件训练 (这一部分使用Colaboratory进行测试)
+
+## 2020_04_06
+
+这个文件夹开始介绍强化学习的相关内容.
+
+- 00_Reinforcement_Learning_Gym介绍 (关于工具gym的详细介绍)
