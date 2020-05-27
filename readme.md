@@ -126,3 +126,4 @@
 - 01_Example_of_PolicyEvaluation (一个介绍Policy Evaluation的文件, 也就是给定策略, 对策略进行评价)
 - 02_Example_of_PolicyIterative.ipynb (从给定policy, 进行迭代)
 - 03_Example_of_ValueIteration.ipynb (value iteration的例子)
+- 04_BlackJack_Playground.ipynb (21点的环境的介绍)
