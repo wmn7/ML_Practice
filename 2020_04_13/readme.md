@@ -12,3 +12,5 @@
 
 ### 第四课时部分
 - 04_BlackJack_Playground.ipynb (21点的环境的介绍)
+- 04_Monte-Carlo_normalMean.ipynb (使用MC方法来估计value function, 这里使用普通的求平均的方式)
+- 04_Monte-Carlo_IncrementalMean.ipynb (使用MC方法来估计value function, 这里使用incremental mean)

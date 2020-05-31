@@ -127,3 +127,4 @@
 - 02_Example_of_PolicyIterative.ipynb (从给定policy, 进行迭代)
 - 03_Example_of_ValueIteration.ipynb (value iteration的例子)
 - 04_BlackJack_Playground.ipynb (21点的环境的介绍)
+- 04_Monte-Carlo_normalMean.ipynb (使用MC方法来估计value function, 这里使用普通的求平均的方式)
