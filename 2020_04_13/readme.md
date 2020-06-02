@@ -15,3 +15,4 @@
 - 04_Monte-Carlo_normalMean.ipynb (使用MC方法来估计value function, 这里使用普通的求平均的方式)
 - 04_Monte-Carlo_IncrementalMean.ipynb (使用MC方法来估计value function, 这里使用incremental mean)
 - 04_Temporal-Difference_BlackJack.ipynb (使用TD方法来估计value function)
+- 04_Eligibility_traces_BlackJack.ipynb (使用了Eligibility traces来进行更新)
