@@ -16,3 +16,6 @@
 - 04_Monte-Carlo_IncrementalMean.ipynb (使用MC方法来估计value function, 这里使用incremental mean)
 - 04_Temporal-Difference_BlackJack.ipynb (使用TD方法来估计value function)
 - 04_Eligibility_traces_BlackJack.ipynb (使用了Eligibility traces来进行更新)
+
+### 第五课时部分
+- 05_Monte_Carlo_Control_BlackJack.ipynb (使用MC方法来优化策略, 给出最优策略)
