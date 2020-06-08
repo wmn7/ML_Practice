@@ -18,4 +18,5 @@
 - 04_Eligibility_traces_BlackJack.ipynb (使用了Eligibility traces来进行更新)
 
 ### 第五课时部分
+- 05_Windy_Gridworld_Playground.ipynb (环境Windy Gridworld Playground的介绍)
 - 05_Monte_Carlo_Control_BlackJack.ipynb (使用MC方法来优化策略, 给出最优策略)
