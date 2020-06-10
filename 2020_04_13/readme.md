@@ -20,3 +20,4 @@
 ### 第五课时部分
 - 05_Windy_Gridworld_Playground.ipynb (环境Windy Gridworld Playground的介绍)
 - 05_Monte_Carlo_Control_BlackJack.ipynb (使用MC方法来优化策略, 给出最优策略)
+- 05_Sarsa_Windy_Gridworld.ipynb (使用最基础的Sarsa算法, 在windy gridworld中寻找最优路径)
