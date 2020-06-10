@@ -18,6 +18,7 @@
 - 04_Eligibility_traces_BlackJack.ipynb (使用了Eligibility traces来进行更新)
 
 ### 第五课时部分
-- 05_Windy_Gridworld_Playground.ipynb (环境Windy Gridworld Playground的介绍)
-- 05_Monte_Carlo_Control_BlackJack.ipynb (使用MC方法来优化策略, 给出最优策略)
-- 05_Sarsa_Windy_Gridworld.ipynb (使用最基础的Sarsa算法, 在windy gridworld中寻找最优路径)
+- 05_Windy_Gridworld_Playground.ipynb (环境Windy Gridworld Playground的介绍);
+- 05_GLIE_BlackJack.ipynb (使用MC方法来优化策略, 使用GLIE算法, 给出最优策略, 用在BlackJack上面);
+- 05_GLIE_Windy_Gridworld.ipynb (使用MC方法, 解决Windy Gridworld上面);
+- 05_Sarsa_Windy_Gridworld.ipynb (使用最基础的Sarsa算法, 在windy gridworld中寻找最优路径);
