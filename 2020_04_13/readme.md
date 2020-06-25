@@ -29,6 +29,8 @@
         - 05_Sarsa_Windy_Gridworld.ipynb (使用最基础的Sarsa算法, 在windy gridworld中寻找最优路径);
         - 05_Sarsa_Lambda_Windy_Gridworld.ipynb (使用Sarsa($\lambda$)方法, 也就是使用eligibility traces);
 - Off Policy Learning介绍
+    - MC
+        - 05_Importance_Sampling_Random_Eligibility_Traces_Windy_Gridworld.ipynb (使用MC+OFF policy的方式, 但是没有收敛)
     - TD
         - 05_Importance_Sampling_Random_Windy_Gridworld.ipynb (使用importance sampling, 并且执行的policy为随机policy, 即每个action执行的概率相同)
         - 05_Importance_Sampling_Q_Windy_Gridworld.ipynb (q-learning在先前版本)
