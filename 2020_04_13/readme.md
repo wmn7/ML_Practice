@@ -32,8 +32,8 @@
     - MC
         - 05_Importance_Sampling_Random_MC_Windy_Gridworld.ipynb (使用MC+OFF policy的方式, 但是没有收敛)
     - TD
-        - 05_Importance_Sampling_Random_Windy_Gridworld.ipynb (使用importance sampling, 并且执行的policy为随机policy, 即每个action执行的概率相同)
-        - 05_Importance_Sampling_Q_Windy_Gridworld.ipynb (q-learning在先前版本)
+        - 05_Importance_Sampling_Random_TD_Windy_Gridworld.ipynb (使用importance sampling, 并且执行的policy为随机policy, 即每个action执行的概率相同)
+        - 05_Importance_Sampling_TD_Q-Learning_Windy_Gridworld.ipynb (q-learning简化前的版本, 此时可以看到有行为策略, 和优化策略)
         - 05_Q-Learning_Windy_Gridworld.ipynb (q-learning介绍)
         - 05_Importance_Sampling_2-step-Q-Learning_Windy_Gridworld.ipynb (使用2-step, 此时要加importance sampling, 测试权重加在不同位置的效果)
         - 05_Importance_Sampling_3-step-Q-Learning_Windy_Gridworld.ipynb (使用3-step, 此时要加importance sampling, 测试权重加在不同位置的效果)
