@@ -12,4 +12,4 @@
 Importance sampling是在reinforcement learning的off policy中有讲到. 
 我们在这里单独拿出来说明一下, 并给出例子介绍. 
 
-关于具体的内容介绍, 可以查看文章[数据分析–将数据存储为npy文件](https://mathpretty.com/11796.html)
+关于具体的内容介绍, 可以查看文章[Importance Sampling (重要性采样)介绍](https://mathpretty.com/12375.html)
