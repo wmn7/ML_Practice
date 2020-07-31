@@ -74,6 +74,7 @@
 
 ## 2019_07_08
 
+- 关于更多模型解释的内容, 查看文章: [模型的可解释性简单说明(Interpreting machine learning models)](https://mathpretty.com/10692.html)
 - Saliency Maps的简单实现
 - LIME与Pytorch的结合使用
 - SHAP与Pytorch的结合使用
