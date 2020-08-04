@@ -179,3 +179,4 @@
 - 损失函数和优化器的介绍
 - Pytorch实现简单线性回归
 - 数据加载器 (如何重写dataset类, 将其传入dataloader, 并进行batch操作)
+- 数据预处理 (包含如何写transform, 合并到dataset中, 如何对特征数据进行归一化)
