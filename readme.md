@@ -181,3 +181,4 @@
 - 数据加载器 (如何重写dataset类, 将其传入dataloader, 并进行batch操作)
 - 数据预处理 (包含如何写transform, 合并到dataset中, 如何对特征数据进行归一化)
 - 全连接网络的手写数字识别(MNIST), 一个完整的训练流程
+- 卷积神经网络的CIFAR_10的识别 (使用Pytorch实现卷积网络, 并在CIFAR_10数据集上进行测试)
