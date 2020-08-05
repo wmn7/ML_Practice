@@ -18,7 +18,6 @@
 - 04_Eligibility_traces_BlackJack.ipynb (使用了Eligibility traces来进行更新)
 
 ### 第五课时部分
-
 - 环境介绍
     - 05_Windy_Gridworld_Playground.ipynb (环境Windy Gridworld Playground的介绍);
 - On Policy Learning介绍
@@ -37,3 +36,8 @@
         - 05_Q-Learning_Windy_Gridworld.ipynb (q-learning介绍)
         - 05_Importance_Sampling_2-step-Q-Learning_Windy_Gridworld.ipynb (使用2-step, 此时要加importance sampling, 测试权重加在不同位置的效果)
         - 05_Importance_Sampling_3-step-Q-Learning_Windy_Gridworld.ipynb (使用3-step, 此时要加importance sampling, 测试权重加在不同位置的效果)
+
+### 第六课时部分
+
+### 第七课时部分
+- 07_Cliff_Environment_Playground.ipynb (环境Cliff Walking的环境介绍)
