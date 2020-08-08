@@ -41,3 +41,7 @@
 
 ### 第七课时部分
 - 07_Cliff_Environment_Playground.ipynb (环境Cliff Walking的环境介绍)
+
+### Other
+
+- 强化学习解决背包问题 (一个使用强化学习来解决背包优化问题的例子)
