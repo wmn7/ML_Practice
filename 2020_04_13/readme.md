@@ -38,6 +38,7 @@
         - 05_Importance_Sampling_3-step-Q-Learning_Windy_Gridworld.ipynb (使用3-step, 此时要加importance sampling, 测试权重加在不同位置的效果)
 
 ### 第六课时部分
+- 06_Deep_Q_Learning_Pytorch_CliffWalking.ipynb (根据Pytorch官方教程改变, 在Cliff Walking上进行实验)
 
 ### 第七课时部分
 - 07_Cliff_Environment_Playground.ipynb (环境Cliff Walking的环境介绍)
