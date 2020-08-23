@@ -38,10 +38,11 @@
         - 05_Importance_Sampling_3-step-Q-Learning_Windy_Gridworld.ipynb (使用3-step, 此时要加importance sampling, 测试权重加在不同位置的效果)
 
 ### 第六课时部分
-- 06_Deep_Q_Learning_Pytorch_CliffWalking.ipynb (根据Pytorch官方教程改变, 在Cliff Walking上进行实验)
+- 06_Deep_Q_Learning_Pytorch_CliffWalking.ipynb (根据Pytorch官方教程改变, 使用Pytorch实现Deep Q Network, 在Cliff Walking上进行实验)
 
 ### 第七课时部分
 - 07_Cliff_Environment_Playground.ipynb (环境Cliff Walking的环境介绍)
+- 07_Actor_Critic_Baseline_(A2C)_Pytorch (使用Pytorch实现Actor Critic with Baseline, 也就是A2C的模型, 在Cliff Walking上进行实验)
 
 ### Other
 

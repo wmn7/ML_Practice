@@ -121,7 +121,7 @@
 - Npy文件生成 (如何将图片生成对应的npy文件和label的npy文件)
 - Npy文件训练 (这一部分使用Colaboratory进行测试)
 
-## 2020_04_06
+## 2020_04_06 (Reinforcement Learning)
 
 这个文件夹开始介绍强化学习的相关内容. 
 目前这个文件夹还在持续更新. 
@@ -142,7 +142,6 @@
 - 04_Eligibility_traces_BlackJack.ipynb (使用了Eligibility traces来进行更新)
 
 ### 第五课时部分
-
 - 环境介绍
     - 05_Windy_Gridworld_Playground.ipynb (环境Windy Gridworld Playground的介绍);
 - On Policy Learning介绍
@@ -162,6 +161,17 @@
         - 05_Importance_Sampling_2-step-Q-Learning_Windy_Gridworld.ipynb (使用2-step, 此时要加importance sampling, 测试权重加在不同位置的效果)
         - 05_Importance_Sampling_3-step-Q-Learning_Windy_Gridworld.ipynb (使用3-step, 此时要加importance sampling, 测试权重加在不同位置的效果)
 
+### 第六课时部分
+- 06_Deep_Q_Learning_Pytorch_CliffWalking.ipynb (根据Pytorch官方教程改变, 使用Pytorch实现Deep Q Network, 在Cliff Walking上进行实验)
+
+### 第七课时部分
+- 07_Cliff_Environment_Playground.ipynb (环境Cliff Walking的环境介绍)
+- 07_Actor_Critic_Baseline_(A2C)_Pytorch (使用Pytorch实现Actor Critic with Baseline, 也就是A2C的模型, 在Cliff Walking上进行实验)
+
+### Other
+
+- 强化学习解决背包问题 (一个使用强化学习来解决背包优化问题的例子)
+
 ## 2020_06_29
 
 因为之前一直在看RL的内容, 所以都放在了一个文件夹. 
@@ -170,7 +180,7 @@
 - importance sampling的介绍.
 
 
-## 2020_08_03
+## 2020_08_03 (Pytorch入门基础文档)
 
 这里为一些Pytorch的入门介绍. 
 
