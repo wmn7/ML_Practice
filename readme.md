@@ -2,9 +2,9 @@
 
 **简单说明**: 
 
-- 这里会记录一些我平时所学的和平时所做的实验, 尽量所有的都以notebook的形式上传, 看起来更加方便. 
-- 我建议可以按照这篇文章[机器学习文章总结](https://mathpretty.com/10388.html)来进行看. 基本这里每一个代码我都有相应的, 详细的文章进行介绍.
-- (我最初的想法是这里记录原始的, 或是精简过的notebook, 详细的说明在[文艺数学君](https://mathpretty.com/)上进行说明. 想看代码再来这个仓库进行查看)
+- 这里会记录一些我平时所学的和平时所做的实验，尽量所有的都以 `Jupyter Notebook` 的形式上传，看起来更加方便。
+- 我建议可以按照这篇文章[机器学习文章总结](https://mathpretty.com/10388.html)来进行看。基本这里每一个代码我都有相应的文章进行介绍。
+- (我最初的想法是这里记录原始的, 或是精简过的 Jupyter Notebook, 详细的说明在[文艺数学君](https://mathpretty.com/)上进行说明. 想看代码再来这个仓库进行查看)
 
 ## Tools
 
@@ -14,15 +14,15 @@
 
 ## 2019_03_17
 
-- PyTorch实现简单分类
-- PyTorch实现CNN, Dogs vs. Cats
-- Pytorch维度的理解
-- PyTorch对交叉熵的理解(CrossEntropy)
+- PyTorch 实现简单分类
+- PyTorch 实现CNN, Dogs vs. Cats
+- Pytorch 维度的理解
+- PyTorch 对交叉熵的理解(CrossEntropy)
 
 ## 2019_03_24
 
 - 模型可视化-Netron
-- 残差网络举例, 使用Pytorch训练-验证-测试Resnet50
+- 残差网络举例, 使用 Pytorch 训练-验证-测试Resnet50
 - 论文介绍 : Decision-based boundary attack
 
 ## 2019_04_14
@@ -37,12 +37,12 @@
 
 ## 2019_04_29
 
-- PyTorch实现逻辑回归
+- PyTorch 实现逻辑回归
 - 包含逻辑回归的PPT和代码实现和使用的数据
 
 ## 2019_05_27
 
-- CNN的介绍
+- CNN 的介绍
 - Convolution的一些可解释性
 - deep dream的实现
 
@@ -50,7 +50,7 @@
 ## 2019_06_03
 
 - Image Style Transform(图片的风格迁移)
-- CNN_MNIST可视化
+- CNN_MNIST 可视化
 
 ## 2019_06_10
 
@@ -60,7 +60,8 @@
 
 ## 2019_06_17
 
-- Seq2Seq - translation(一个简单的Seq2Seq的模型，用来实现英文与法文的翻译。)
+- Seq2Seq - translation (一个简单的 Seq2Seq 的模型，用来实现英文与法文的翻译。)
+- Seq2Seq with Attention (加上 Attention 的 Seq2Seq 模型。)
 
 ## 2019_06_24
 
