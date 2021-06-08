@@ -68,22 +68,18 @@
 - Emotion RNN(使用RNN完成简单的情感分类)
 - Word Embedding(简单实现Skip-gram算法)
 
-## 2019_07_01
-
-- Attention的简单介绍
-
 
 ## 2019_07_08
 
 - 关于更多模型解释的内容, 查看文章: [模型的可解释性简单说明(Interpreting machine learning models)](https://mathpretty.com/10692.html)
-- Saliency Maps的简单实现
-- LIME与Pytorch的结合使用
-- SHAP与Pytorch的结合使用
+- Saliency Maps 的简单实现
+- LIME 与 Pytorch 的结合使用
+- SHAP 与 Pytorch 的结合使用
 
 ## 2019_07_15
 
-- GAN生成服从高斯分布的数据
-- GAN生成手写数字
+- GAN 生成服从高斯分布的数据
+- GAN 生成手写数字
 
 
 ## 2019_08_12
