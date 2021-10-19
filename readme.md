@@ -124,7 +124,7 @@
 - Npy文件生成 (如何将图片生成对应的npy文件和label的npy文件)
 - Npy文件训练 (这一部分使用Colaboratory进行测试)
 
-## 2020_04_06 (Reinforcement Learning)
+## Reinforcement Learning
 
 这个文件夹开始介绍强化学习的相关内容. 
 目前这个文件夹还在持续更新. 
