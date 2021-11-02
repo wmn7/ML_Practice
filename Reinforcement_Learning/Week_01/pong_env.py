@@ -2,9 +2,13 @@
 @Author: WANG Maonan
 @Date: 2021-11-02 14:33:14
 @Description: 对环境「pong-ram-v0」和「pong-v0」环境的理解
-@LastEditTime: 2021-11-02 16:45:23
+@LastEditTime: 2021-11-02 16:54:32
 '''
 import gym
+
+# need to install the following package
+# pip install 'gym[atari]'
+# pip install 'gym[accept-rom-license]'
 
 env = gym.make("Pong-ram-v0") # Pong-v0 or Pong-ram-v0
 
