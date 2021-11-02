@@ -2,7 +2,7 @@
 @Author: WANG Maonan
 @Date: 2021-11-02 11:21:09
 @Description: LunarLander-v2 环境测试
-@LastEditTime: 2021-11-02 11:51:44
+@LastEditTime: 2021-11-02 14:26:27
 '''
 import gym
 
@@ -16,6 +16,7 @@ print(env.action_space)
 
 # 随机策略
 env.reset()
+env.render()
 done = False
 while not done:
     action = env.action_space.sample()
