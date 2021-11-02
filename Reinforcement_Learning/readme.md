@@ -1,9 +1,18 @@
+<!--
+ * @Author: WANG Maonan
+ * @Date: 2021-11-02 11:19:32
+ * @Description: 
+ * @LastEditTime: 2021-11-02 11:19:33
+-->
 # 2020_04_13
 
 ## 强化学习, Reinforcement Learning
 
-### 第一课时部分
-- 00_Reinforcement_Learning_Gym介绍 (关于工具gym的详细介绍)
+### 第一课时部分 (week_01)
+
+- 00_Reinforcement_Learning_Gym 介绍 (关于工具 gym 的详细介绍)
+- MountainCar-v0_env.ipynb 介绍 (MountainCar-v0 环境介绍)
+
 
 ### 第三课时部分
 - 01_Example_of_PolicyEvaluation (一个介绍Policy Evaluation的文件, 也就是给定策略, 对策略进行评价)
